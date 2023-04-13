@@ -1,0 +1,2 @@
+# Exclude the node_modules folder and any binaries
+node_modules/ binary
